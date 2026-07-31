@@ -1,0 +1,2 @@
+# scripts-tailwind
+tailwind project
